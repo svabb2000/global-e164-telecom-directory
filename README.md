@@ -36,3 +36,13 @@ Phone number normalization is critical for database integrity, SMS delivery, and
 Validates international E.164 format (1 to 15 digits overall, excluding the leading `+`):
 ```regex
 ^\+[1-9]\d{1,14}$
+
+🔗 Official Registry & Resources
+For full destination code indexes, active carrier ranges, and routing data updates:
+
+Official Registry: prefixyr.com
+
+Standard Documentation: ITU-T Recommendation E.164
+
+📄 License
+This repository and reference documentation are licensed under the MIT License.
